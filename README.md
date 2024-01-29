@@ -4,7 +4,7 @@
 ### Lugar onde deixarei alguns projetos nessa minha jornada
 <br>
 <p float="center">
-  <img src="screenshot.do.projeto.png"></img><p>
+  <img src="screenshot.do.projeto.jpg"></img><p>
   <img src="screenshot.do.projeto2.png"></img><p>
   <img src="screenshot.do.projeto3.png"></img>
 </p>
