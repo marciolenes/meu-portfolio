@@ -5,8 +5,8 @@
 <br>
 <p float="center">
   <img src="screenshot.do.projeto.jpg"></img><p>
-  <img src="screenshot.do.projeto2.png"></img><p>
-  <img src="screenshot.do.projeto3.png"></img>
+  <img src="screenshot.do.projeto2.jpg"></img><p>
+  <img src="screenshot.do.projeto3.jpg"></img>
 </p>
 <br>
 
