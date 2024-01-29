@@ -22,4 +22,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Bistrô do Marcio](https://bistro-do-marcio.netlify.app/)
+- [Meu Portfólio](https://marcio-meuportfolio.netlify.app//)
